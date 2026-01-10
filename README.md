@@ -1,5 +1,5 @@
 # 💫 Hi There, 
-I am Abe , Software Developer focused mostly on backend tech . 
+I am Abe , Software Developer focused mostly on Data and AI . 
 
 
 
